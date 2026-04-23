@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node
+node_modules/
+
+# Build artifacts
+frontend/dist/
+
+# Vite
+vite.config.ts.timestamp-*
+
+# OS
+.DS_Store
